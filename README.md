@@ -21,7 +21,8 @@ A Experienced Full Stack (Frontend-Backend) Developer From India
   <p align="center">
 	<a href="mailto:vikasgupta2426@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/vikas-gupta-273a9725b"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<!-- <a href="https://Vikas-Gupta-portfolio.vercel.app/" target="_blank"> -->
+	<a href="https://vikas-gupta-portfolio-five.vercel.app/" target="_blank">
+	
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
 </a>
 	
